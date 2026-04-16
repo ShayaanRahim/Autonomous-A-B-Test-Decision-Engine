@@ -1,0 +1,22 @@
+{
+    "page": {
+      "headline": "Premium Minimalist Leather Wallet",
+      "cta_text": "Add to Cart",
+      "description_length": 210,
+      "price_display": "$49.99",
+      "image_count": 3,
+      "has_reviews": true,
+      "review_count": 12,
+      "trust_badges": ["free shipping"],
+      "above_fold_elements": ["image", "price", "cta"]
+    },
+    "analytics": {
+      "sessions": 4200,
+      "cvr": 0.021,
+      "bounce_rate": 0.61,
+      "add_to_cart_rate": 0.048,
+      "avg_session_seconds": 38,
+      "scroll_depth_avg": 0.43,
+      "cta_click_rate": 0.031
+    }
+  }
